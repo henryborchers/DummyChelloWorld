@@ -1,8 +1,6 @@
-//
-// Created by Henry on 5/9/2016.
-//
+
 #include <iostream>
-#include "hello.h"
+#include "myShared.h"
 
 using namespace std;
 

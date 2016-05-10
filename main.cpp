@@ -1,8 +1,7 @@
-//#include <iostream>
-//using namespace std;
-#include "hello.h"
+
+#include "myShared.h"
+
 int main() {
-//  cout << "Hello, World!" << endl;
   sayHI();
   return 0;
 }
