@@ -1,4 +1,3 @@
-
 #include "myShared.h"
 
 int main() {

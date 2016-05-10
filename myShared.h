@@ -3,7 +3,8 @@
 //
 
 #pragma once
-#include "shared_EXPORT.h"
-extern "C" void SHARED_EXPORT sayHI();
+extern "C"{
+void sayHI();
+}
 
 
